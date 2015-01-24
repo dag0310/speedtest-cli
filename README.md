@@ -1,6 +1,8 @@
 # speedtest-cli (+ run-and-log.sh)
 This fork includes an additional shell script which allows you to save the output of a speedtest to a CSV log file. The same license applies.
 
+Best used in combination with [**Speedtests**](https://github.com/dag0310/speedtests)!
+
 The original README can be found [here](README.rst).
 
 ## Prerequisites
